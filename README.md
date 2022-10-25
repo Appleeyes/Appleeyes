@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Appleeyes
+- 👋 Hi, I’m Apple
 - 👀 I’m interested in PROGRAMMING
 - 🌱 I’m currently learning PHP, HTML, python, JS and CSS
 - 💞️ I’m looking to collaborate on PROJECTS
