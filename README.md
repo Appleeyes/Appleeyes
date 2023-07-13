@@ -6,7 +6,7 @@
 
 ## 👀 I’m interested in PROGRAMMING
 
-<img src="https://media.giphy.com/media/bJ4TVNYNUympPgcpem/giphy.gif" width="500" height="300" alt="Animated GIF"><img src="https://media.giphy.com/media/3ov9jNziFTMfzSumAw/giphy.gif" width="500" height="300" alt="Animated GIF">
+<img src="https://media.giphy.com/media/bJ4TVNYNUympPgcpem/giphy.gif" width="250" height="150" alt="Animated GIF"><img src="https://media.giphy.com/media/3ov9jNziFTMfzSumAw/giphy.gif" width="250" height="150" alt="Animated GIF">
 
 
  ## 🌱 I’m currently working with:
