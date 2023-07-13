@@ -42,7 +42,7 @@
 
 - ### 💞️ I’m looking to collaborate on PROJECTS
 
-## Stats
+## My Stats
 
 [![Apple's GitHub stats](https://github-readme-stats.vercel.app/api?username=appleeyes)](https://github.com/appleeyes/github-readme-stats)
 
