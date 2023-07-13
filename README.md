@@ -6,7 +6,7 @@
 
 ## 👀 I’m interested in PROGRAMMING
 
-<iframe src="https://giphy.com/embed/TFPdmm3rdzeZ0kP3zG" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/glitch-internet-computer-TFPdmm3rdzeZ0kP3zG">via GIPHY</a></p>
+<img src="https://media0.giphy.com/media/V4NSR1NG2p0KeJJyr5/giphy.gif?cid=ecf05e473b4n1d58tjs2pms1y731b9hdrcfz2ohrbhcqr64v&ep=v1_gifs_search&rid=giphy.gif&ct=g/giphy.gif" width="500" height="300" alt="Animated GIF">
 
 
  ## 🌱 I’m currently working with:
