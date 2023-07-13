@@ -2,11 +2,11 @@
 
 ### A passionate Software developer from Africa
 
-<img src="https://media1.giphy.com/media/rOdtJJS9Xf4TYx2aT8/giphy.gif?cid=ecf05e47pi0bvvc19jt1ddrzqu92el3lbkxp8lsh7jj3wvte&ep=v1_gifs_search&rid=giphy.gif&ct=g/giphy.gif" width="500" height="300" alt="Animated GIF">
 
-### 👀 I’m interested in PROGRAMMING
 
-<img src="https://media0.giphy.com/media/V4NSR1NG2p0KeJJyr5/giphy.gif?cid=ecf05e473b4n1d58tjs2pms1y731b9hdrcfz2ohrbhcqr64v&ep=v1_gifs_search&rid=giphy.gif&ct=g/giphy.gif" width="500" height="300" alt="Animated GIF">
+## 👀 I’m interested in PROGRAMMING
+
+<img src="https://media1.giphy.com/media/V4NSR1NG2p0KeJJyr5/giphy.gif?cid=ecf05e473b4n1d58tjs2pms1y731b9hdrcfz2ohrbhcqr64v&ep=v1_gifs_search&rid=giphy.gif&ct=g/giphy.gif" width="500" height="300" alt="Animated GIF">
 
 
  ## 🌱 I’m currently working with:
