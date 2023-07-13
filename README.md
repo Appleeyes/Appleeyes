@@ -1,8 +1,11 @@
 # 👋 Hi, I’m Apple
 
+<img src="https://media1.giphy.com/media/rOdtJJS9Xf4TYx2aT8/giphy.gif?cid=ecf05e47pi0bvvc19jt1ddrzqu92el3lbkxp8lsh7jj3wvte&ep=v1_gifs_search&rid=giphy.gif&ct=g/giphy.gif" width="200" height="150" alt="Animated GIF">
+
+
 ### A passionate Software developer from Africa
 
-<img src="https://media1.giphy.com/media/rOdtJJS9Xf4TYx2aT8/giphy.gif?cid=ecf05e47pi0bvvc19jt1ddrzqu92el3lbkxp8lsh7jj3wvte&ep=v1_gifs_search&rid=giphy.gif&ct=g/giphy.gif" width="500" height="300" alt="Animated GIF">
+<img src="https://camo.githubusercontent.com/c525d490f395a10f1ae04bbf8c26b725456d30f3ec4092d84e0421d55072d6c4/68747470733a2f2f6d65646961302e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e6769663f6369643d656366303565343766373367756d32616564766867346e3273793662303771346d306d323168343277617a7767623679267269643d67697068792e6769662663743d67" width="500" height="300" alt="Animated GIF">
 
 ## 👀 I’m interested in PROGRAMMING
 
@@ -17,6 +20,9 @@
     - CSS
     - SQL
 
+
+![](https://komarev.com/ghpvc/?username=Appleeyes)
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
@@ -30,6 +36,7 @@
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
 
+![Your Most Used Language](https://github-readme-stats.vercel.app/api/top-langs/?username=Appleeyes&layout=compact)
 
 
 - ### 💞️ I’m looking to collaborate on PROJECTS
@@ -51,12 +58,14 @@ Here are some of the projects I've worked on:
 
 [![Apple's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Appleeyes)](https://github.com/appleeyes/github-readme-activity-graph)
 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Appleeyes)
+
+
+
 ## 📫 Find Me
 - Website: [My Portfolio](https://appleeyespackage.wixsite.com/dorcassamuel)
 - Email: samueldorcaseshowokeoghene@gmail.com
 - WhatsApp: +2349024981028
-
-
 
 <h3 align="left">Connect with me:</h3>
 <a href="https://twitter.com/Apple_dTechGirl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@apple_dtechgirl" height="30" width="40" /></a>
