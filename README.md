@@ -38,14 +38,21 @@
 
 ![Your Most Used Language](https://github-readme-stats.vercel.app/api/top-langs/?username=Appleeyes&layout=compact)
 
+#
 
 - ### 💞️ I’m looking to collaborate on PROJECTS
 
+## Stats
+
 [![Apple's GitHub stats](https://github-readme-stats.vercel.app/api?username=appleeyes)](https://github.com/appleeyes/github-readme-stats)
+
+
+
+## My Trophies
 
 [![Apple's trophy](https://github-profile-trophy.vercel.app/?username=appleeyes)](https://github.com/appleeyes/github-profile-trophy)
 
-## Projects
+## My Projects
 
 Here are some of the projects I've worked on:
 
@@ -56,8 +63,11 @@ Here are some of the projects I've worked on:
 - [Students Management App 2](https://github.com/Appleeyes/Jagaad): An application to manage student records built using HTML, CSS and PHP and this use filesystem as database management.
 - [Restaurant Booking App](https://github.com/Appleeyes/Booking-App): An application for booking tables at a restaurant built using HTML, CSS, JS and PHP and MYSQL as database management.
 
+## My ContB Graph 
+
 [![Apple's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Appleeyes)](https://github.com/appleeyes/github-readme-activity-graph)
 
+## My Streaks
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Appleeyes)
 
 
