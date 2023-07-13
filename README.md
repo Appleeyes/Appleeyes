@@ -6,7 +6,7 @@
 
 ## 👀 I’m interested in PROGRAMMING
 
-<img src="https://media.giphy.com/media/bJ4TVNYNUympPgcpem/giphy.gif" width="250" height="150" alt="Animated GIF"><img src="https://media.giphy.com/media/3ov9jNziFTMfzSumAw/giphy.gif" width="250" height="150" alt="Animated GIF">
+<img src="https://media.giphy.com/media/bJ4TVNYNUympPgcpem/giphy.gif" width="250" height="200" alt="Animated GIF"><img src="https://media.giphy.com/media/3ov9jNziFTMfzSumAw/giphy.gif" width="250" height="200" alt="Animated GIF">
 
 
  ## 🌱 I’m currently working with:
@@ -35,6 +35,8 @@
 - ### 💞️ I’m looking to collaborate on PROJECTS
 
 [![Apple's GitHub stats](https://github-readme-stats.vercel.app/api?username=appleeyes)](https://github.com/appleeyes/github-readme-stats)
+
+[![Apple's trophy](https://github-profile-trophy.vercel.app/?username=appleeyes)](https://github.com/appleeyes/github-profile-trophy)
 
 ## Projects
 
