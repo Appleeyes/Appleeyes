@@ -2,7 +2,7 @@
 
 ### A passionate Software developer from Africa
 
-
+<img src="https://media1.giphy.com/media/rOdtJJS9Xf4TYx2aT8/giphy.gif?cid=ecf05e47pi0bvvc19jt1ddrzqu92el3lbkxp8lsh7jj3wvte&ep=v1_gifs_search&rid=giphy.gif&ct=g/giphy.gif" width="500" height="300" alt="Animated GIF">
 
 ## 👀 I’m interested in PROGRAMMING
 
