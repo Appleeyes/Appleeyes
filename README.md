@@ -5,7 +5,7 @@
 <img src="https://media1.giphy.com/media/rOdtJJS9Xf4TYx2aT8/giphy.gif?cid=ecf05e47pi0bvvc19jt1ddrzqu92el3lbkxp8lsh7jj3wvte&ep=v1_gifs_search&rid=giphy.gif&ct=g/giphy.gif" width="200" height="150" alt="Animated GIF">
 
 
-### A passionate Software developer from Africa
+### A passionate Software developer from Africa.
 
 <img src="https://camo.githubusercontent.com/c525d490f395a10f1ae04bbf8c26b725456d30f3ec4092d84e0421d55072d6c4/68747470733a2f2f6d65646961302e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e6769663f6369643d656366303565343766373367756d32616564766867346e3273793662303771346d306d323168343277617a7767623679267269643d67697068792e6769662663743d67" width="500" height="300" alt="Animated GIF">
 
